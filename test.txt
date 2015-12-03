@@ -1,3 +1,4 @@
 This is a test.
 The quick brown fox jumped over the lazy dogs.
 I'm now adding a different line instead of the previous third line.
+Added a different fourth line in master branch.
