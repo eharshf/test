@@ -1,2 +1,3 @@
 This is a test.
 The quick brown fox jumped over the lazy dogs.
+And this is a line that has been added to the test file.
